@@ -1,0 +1,4 @@
+1 : Create gradual pitched files of the main sound instead of having them all on the same sound effect
+3 : Add Down Right Left start positions
+4 : Align objects equaly on the given space
+7 : Clean Code
